@@ -19,9 +19,9 @@
 
 > *"I treat code as architecture. Scalability isn't an afterthought; it's the foundation."*
 
-*   **Computational Thinking:** Solving the business problem at the logic level before touching the UI.
-*   **Systemic DRY:** Building reusable atomic units for high-performance SaaS environments.
-*   **Billing Expert:** Specialized in the complex logic of subscription cycles and financial data integrity.
+* **Computational Thinking:** Solving the business problem at the logic level before touching the UI.
+* **Systemic DRY:** Building reusable atomic units for high-performance SaaS environments.
+* **Billing Expert:** Specialized in the complex logic of subscription cycles and financial data integrity.
 
 ---
 
