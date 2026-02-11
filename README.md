@@ -1,16 +1,36 @@
-## Hi there 👋
+<!-- Banner / Header -->
+<h1 align="center">Hi 👋, I'm [Your Name]</h1>
+<h3 align="center">Full Stack Developer | Problem Solver | Algorithm Enthusiast</h3>
 
-<!--
-**SHINGISO/SHINGISO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  💡 I break down complex problems into clean, efficient solutions.<br>
+  🧠 I think in algorithms, write in logic, and build with purpose.
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+I'm a **Full Stack Developer** with a strong focus on:
+
+- 🧩 Problem-solving & analytical thinking  
+- 🧮 Algorithmic design & computational logic  
+- 🧼 Writing clean, efficient, and maintainable code  
+- ⚡ Building thoughtful, high-performance applications  
+
+I enjoy breaking problems into smaller logical units, understanding the *why* behind computations, and crafting software that is not just functional — but genuinely useful.
+
+I’m continuously learning, experimenting, and refining my skills to build software that is:
+
+✔ Efficient  
+✔ Scalable  
+✔ Cleanly Architected  
+✔ User-Focused  
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Frontend
+```bash
+HTML | CSS | JavaScript | React | Next.js
