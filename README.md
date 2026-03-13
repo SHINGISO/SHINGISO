@@ -4,8 +4,8 @@
 
 <div align="center">
   
-  # 🏗️ [Your Name]
-  **Full Stack Engineer • SaaS Architect • Based in Zimbabwe**
+  # 🏗️sther Shingiso Nyengerai
+  **Full Stack Developer**
 
   [![Status](https://img.shields.io/badge/Building_In_Public-SaaS_Billing-0ea5e9?style=flat-square)](https://github.com/)
   [![Location](https://img.shields.io/badge/Logic_Specialist-Atomic_Design-6366f1?style=flat-square)](https://github.com/)
